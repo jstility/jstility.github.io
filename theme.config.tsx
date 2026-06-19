@@ -16,7 +16,7 @@ const config: DocsThemeConfig = {
   useNextSeoProps() {
     return {
       titleTemplate: '%s – JStility',
-      description: 'JStility is an open-source organization building modern, smart tools for developers.',
+      description: 'JStility is an open-source organization building useful, smart, and simple libraries for everyday development.',
     };
   },
   head: (
